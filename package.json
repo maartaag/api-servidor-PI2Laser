@@ -1,0 +1,12 @@
+{
+  "name": "api-servidor-pi2laser",
+  "version": "1.0.0",
+  "description": "Servidor entre clientes astro y clientes web que usa socket-io como comunicación",
+  "license": "ISC",
+  "author": "Josep Medina, Marc Català, Aleix Bonet i Marta Gras",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
